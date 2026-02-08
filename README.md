@@ -62,3 +62,4 @@ Delete everything currently in the file and paste the content above.
 Important: Replace YOUR_USERNAME in the clone command with your actual GitHub username.
 
 Upload your image_c348c2.jpg to the repository so the "Results" section has the visual proof!
+AI-Log-Anomaly-Detector
